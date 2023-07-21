@@ -1,0 +1,4 @@
+5/7/2023
+- Dữ liệu bán hàng online có vấn đề ( giá bán  < cost sản phẩm )
+- Dữ liệu về KPI có vấn đề (KPI quá lớn và k biết con số từ đâu ra)
+- 
